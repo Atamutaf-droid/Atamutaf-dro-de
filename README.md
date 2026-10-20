@@ -1,2 +1,2 @@
 # Atamutaf-dro-de
-Apprentissage GitHub
+J'apprends GitHub et le pratique aussi souvent que possible.
